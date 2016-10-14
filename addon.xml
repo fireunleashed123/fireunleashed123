@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.fireunleashed123" name="fireunleashed123" version="0.1.0" provider-name="Daniel">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="fireunleashed123">
+            <info compressed="false">http://fireunleashed123.weebly.com/services.html_repo/addons.xml</info>
+            <checksum>http://fireunleashed123.weebly.com/services.html_repo/addons.xml.md5</checksum>
+            <datadir zip="true">http://fireunleashed123.weebly.com/services.html_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>a wizzard build</summary>
+            <description>a wizzard build</description>
+            <platform>all</platform>
+    </extension>
+</addon>
